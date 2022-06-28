@@ -1,9 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+🔭 한국은행
+🌱 프론트엔드 개발 공부를 하고 있습니다.
 
-<!--
-**ava22coding/ava22coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![ava22coding's github stats](https://github-readme-stats.vercel.app/api?username=ava22coding&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
