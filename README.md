@@ -1,4 +1,4 @@
-## 24세 Ava의 프론트엔드 개발 공부 일기장
+## 개발 공부 일기장
 ### “Working at the Bank of Korea, Studying at Hanyang Univ.”
 - 🏢 The Bank of Korea (2017.11~)
 - 🏫 Hanyang Univ (2021.3~)
